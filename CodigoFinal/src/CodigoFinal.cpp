@@ -263,3 +263,4 @@ using namespace std;
 		}while(opcionMenuPrincipal != 0);
 	return 0;
 }
+//gracias
