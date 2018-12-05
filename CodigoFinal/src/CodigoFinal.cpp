@@ -8,7 +8,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 	const int capacidadInventario = 30;
 	const int capacidadPedido = 10;
 
@@ -39,8 +38,6 @@ using namespace std;
 
 		totalInventario = 5;
 	}
-
-
 	void ListarProductoInventario(int posicion){
 
 		if(posicion < 0){
