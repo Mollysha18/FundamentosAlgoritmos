@@ -240,7 +240,12 @@ using namespace std;
 	int main(int argc, char** argv) {
 
 		CargarInventario();
-
+		cout<<"-Productos de la empresa-"<<endl;
+        cout<<"1.-Monitor Samsung LC27F591FDLXPE, 27 LED Curved, 1920x1080, HDMI/DP/VGA"<<endl;
+        cout<<"2.-Teclado Gamer Cybertel Twister Led Luces"<<endl;
+        cout<<"3.-Mouse Usb Gamer Dragon Mic 663 7 Luces Programable Macro"<<endl;
+        cout<<"4.-Core i3"<<endl;
+        cout<<"5.-Memoria Corsair Vengeance Lpx Ddr4 8gb 2400mhz Con Disipador"<<endl;
 		int opcionMenuPrincipal = 0;
 
 		do{
